@@ -1,4 +1,4 @@
 Fritzing
 ========
 
-Componentes Arduino para ComputaÃ§Ã£o na Escola
+Componentes Arduino para Computação na Escola
