@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.8.7b.01.24.1bf5" icon="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;svg width=&quot;8.46667mm&quot; height=&quot;8.74889mm&quot;&#13;&#10; viewBox=&quot;0 0 30 31&quot;&#13;&#10; xmlns=&quot;http://www.w3.org/2000/svg&quot; xmlns:xlink=&quot;http://www.w3.org/1999/xlink&quot;  version=&quot;1.2&quot; baseProfile=&quot;tiny&quot;&gt;&#13;&#10;&lt;title&gt;Fritzing Custom Icon&lt;/title&gt;&#13;&#10;&lt;desc&gt;Generated with Qt&lt;/desc&gt;&#13;&#10;&lt;defs&gt;&#13;&#10;&lt;/defs&gt;&#13;&#10;&lt;g fill=&quot;none&quot; stroke=&quot;black&quot; stroke-width=&quot;1&quot; fill-rule=&quot;evenodd&quot; stroke-linecap=&quot;square&quot; stroke-linejoin=&quot;bevel&quot; &gt;&#13;&#10;&#13;&#10;&lt;image x=&quot;0&quot; y=&quot;0&quot; width=&quot;30&quot; height=&quot;31&quot; preserveAspectRatio=&quot;none&quot; xlink:href=&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAfCAYAAADwbH0HAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEwAACxMBAJqcGAAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAE1SURBVEiJ7ZUxUoNAGIXf2zCpsWB2qOQIHiFXSKOhwxOoJzA5gXqC0KE2egSO4BGwYhgKqTMMv4UpLAK7EMr96jf77dt/ZxdwOBwzQZtQVupILdTelBOi2ATl7Wzi1zrcE0hssgKsN0H5acopUyCr9cpWCgAEnmxyRjFBq4X+Eb3V4fYs8XulE4JXI8UQkbus1NEk8cfPpd9xdFsAAEmfnnqcJD60h3uS/hQxABBIslqvRomPxzS4YxuU9Lc+KTYdkzXEqq/1SbG03W4WsSCPgyq3FsdhVQA4W96xv0Dv5Vp6y2cRaaZKBUj72g6K1xffjRJ5mCQVaUzjGnxArnWVCuRrrJjky3Fc08QAIBjdurgJyq0pZBTHQZULkNpaBbDaqGe1WNvtuFCRMff3Hxu/RIfDMSu/6vBjp49uop0AAAAASUVORK5CYII=&quot; /&gt;&#13;&#10;&lt;/g&gt;&#13;&#10;&lt;/svg&gt;&#13;&#10;">
+    <title>Computação na Escola</title>
+    <instances>
+        <instance moduleIdRef="freaduino_af7d73036449c1c355abfaa337753e9f_1" modelIndex="1849023" path="C:/Users/awangenh/AppData/Roaming/Fritzing/parts/user/freaduino_af7d73036449c1c355abfaa337753e9f_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="HC-05 Fêmea_29df43d5de0a51dab8025a5b1e6d2dc3_2" modelIndex="1849024" path="C:/Users/awangenh/AppData/Roaming/Fritzing/parts/user/HC-05 Fêmea_29df43d5de0a51dab8025a5b1e6d2dc3_2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="HC-05-male_50ef644d14e5d1dfea3ec45159c12c96_4" modelIndex="1849025" path="C:/Users/awangenh/AppData/Roaming/Fritzing/parts/user/HC-05-male_50ef644d14e5d1dfea3ec45159c12c96_4.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Ponte-H L298N_dc34ee980426c09a6ce219f055923b75_2" modelIndex="1849039" path="C:/Users/awangenh/AppData/Roaming/Fritzing/parts/user/Ponte-H L298N_dc34ee980426c09a6ce219f055923b75_2.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+    </instances>
+</module>
